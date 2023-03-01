@@ -19,14 +19,13 @@
 
     &-block-play {
       position: relative;
-
       &:hover {
-        >i.icon {
+        > i.icon {
           display: flex;
         }
       }
 
-      >i.icon {
+      > i.icon {
         display: none;
         position: absolute;
         top: 0;
